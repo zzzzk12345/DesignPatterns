@@ -22,4 +22,3 @@ public abstract class AbstractOperation {
 }
 
 
-//~ Formatted by Jindent --- http://www.jindent.com

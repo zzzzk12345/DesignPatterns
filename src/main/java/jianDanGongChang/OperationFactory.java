@@ -10,7 +10,7 @@ public class OperationFactory {
     }
 
     public static void main(String[] args) {
-        double num1 = 20d, num2 = 30d;
+        double num1 = 20d, num2 = 0d;
         Operator opAdd = OperationFactory.getOperator("+");
         System.out.println(opAdd.getOperation().operate(num1, num2));
         Operator opSub = OperationFactory.getOperator("-");
