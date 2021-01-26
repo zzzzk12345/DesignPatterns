@@ -1,4 +1,4 @@
-package jianDanGongChang;
+package gongchangmoshi.jianDanGongChang;
 
 /**
  * @author zhangkai
